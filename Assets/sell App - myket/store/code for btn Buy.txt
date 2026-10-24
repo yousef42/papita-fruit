@@ -1,0 +1,9 @@
+  if (UnityEngine.PlayerPrefs.GetString("M_store") == "2" | UnityEngine.PlayerPrefs.GetString("M_store") == "3")
+        {
+            if (UnityEngine.PlayerPrefs.GetString("freeCodebazar") == Application.version)
+            {
+                btnbuy.SetActive(false);
+
+            }
+
+        }

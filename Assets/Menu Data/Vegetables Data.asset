@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7e1eef2a374f8479da87ca8345df4f, type: 3}
+  m_Name: Vegetables Data
+  m_EditorClassIdentifier: 
+  cellDataList:
+    array:
+    - skelData: {fileID: 11400000, guid: 1710acc17aaa4ce40a27fb8867f7cbce, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 624ad37423222dc4b8d4efa5f5284fb4, type: 2}
+      sceneName: Bademjan
+      audio: {fileID: 8300000, guid: 3587d3298c55fa5408eefb19fda7a3e3, type: 3}
+    - skelData: {fileID: 11400000, guid: 9c3f29e7886c7b14ab9a698b90a6f993, type: 2}
+      skelMaterial: {fileID: 2100000, guid: c706c82c575d59546b1d86022d7b30db, type: 2}
+      sceneName: Brookli
+      audio: {fileID: 8300000, guid: 149896e234b69aa4ba8ebe4f01a493db, type: 3}
+    - skelData: {fileID: 11400000, guid: ee1f4bf0c5c418340ac33a694a4ac882, type: 2}
+      skelMaterial: {fileID: 2100000, guid: b01ff9c154502bb43ae0eb2d83b594eb, type: 2}
+      sceneName: Felfeldolme
+      audio: {fileID: 8300000, guid: f2dc18e7022bb74478d91cae6c1113e6, type: 3}
+    - skelData: {fileID: 11400000, guid: 1bf4880b4e33f724ba340ec6dfe16ebe, type: 2}
+      skelMaterial: {fileID: 2100000, guid: fc67879bf43ba9c4cb4f5ac7284f12a0, type: 2}
+      sceneName: Felfelghermez
+      audio: {fileID: 8300000, guid: 3f79d628caf73304e82212aa7d767d49, type: 3}
+    - skelData: {fileID: 11400000, guid: 264a2af1ebf05d7449fce1223b8e5e15, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 7b1ba4d43aef3ba41adff6eb5a134c7e, type: 2}
+      sceneName: Gharch
+      audio: {fileID: 8300000, guid: da6488f3b1c80e74cbe346bb2b752f03, type: 3}
+    - skelData: {fileID: 11400000, guid: 79836dd5be4cdd84ca0ba5e08b4d3c94, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 2a28eb0a4ad0fb94595ffd2c2b116ae8, type: 2}
+      sceneName: Goje
+      audio: {fileID: 8300000, guid: 7986e35903356ab46ba4fa9db2f0fbd9, type: 3}
+    - skelData: {fileID: 11400000, guid: 990c10c5b2346fe40bd36626147dbda4, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 4b9770b47f2ccd0409df820a7ad60f44, type: 2}
+      sceneName: Havij
+      audio: {fileID: 8300000, guid: c246bd4978c57674e88b73a1c55ab8f9, type: 3}
+    - skelData: {fileID: 11400000, guid: 4bf35f742f686b6468603e02ccf5c0df, type: 2}
+      skelMaterial: {fileID: 2100000, guid: c25b380b1dc86e84fb3b8dae0145a002, type: 2}
+      sceneName: Kadoo
+      audio: {fileID: 8300000, guid: 149896e234b69aa4ba8ebe4f01a493db, type: 3}
+    - skelData: {fileID: 11400000, guid: 13b525627766f8648be8a78ed7973802, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 639ad6c6eff0a204dae960326c02262a, type: 2}
+      sceneName: Kadootanbal
+      audio: {fileID: 8300000, guid: f2dc18e7022bb74478d91cae6c1113e6, type: 3}
+    - skelData: {fileID: 11400000, guid: 52102364790ed6940a25eb72cda727b4, type: 2}
+      skelMaterial: {fileID: 2100000, guid: b4bd689df825e7448b9929f60d7a6c5f, type: 2}
+      sceneName: Kahoo
+      audio: {fileID: 8300000, guid: 8d89ee5bcbfe7f44d8935dc94872854c, type: 3}
+    - skelData: {fileID: 11400000, guid: c61ad8e63d159eb40ba860fbd9e3816c, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 980632ba14d4d7c468ebb3c9c211755e, type: 2}
+      sceneName: Kalampich
+      audio: {fileID: 8300000, guid: 6737e27eb4607214aaa719be486c0924, type: 3}
+    - skelData: {fileID: 11400000, guid: 19400491bbc9f3444811a4d34f52ef2a, type: 2}
+      skelMaterial: {fileID: 2100000, guid: e49fea9d76142a74b9912b865f2fb443, type: 2}
+      sceneName: Karafs
+      audio: {fileID: 8300000, guid: beaabcff3fd84574ea022b117bd7e34d, type: 3}
+    - skelData: {fileID: 11400000, guid: cd22eb4c77f7e5440ae82e5958739d74, type: 2}
+      skelMaterial: {fileID: 2100000, guid: e3ecbca28723f3247b5c3f847a522650, type: 2}
+      sceneName: Khiar
+      audio: {fileID: 8300000, guid: b7f46e58143594143a102157bb0daa76, type: 3}
+    - skelData: {fileID: 11400000, guid: edda38fe298e3db42a267f30dd2407d4, type: 2}
+      skelMaterial: {fileID: 2100000, guid: c12c0b866386d834a94a1d8b1ae25a08, type: 2}
+      sceneName: Loobiasabz
+      audio: {fileID: 8300000, guid: da6488f3b1c80e74cbe346bb2b752f03, type: 3}
+    - skelData: {fileID: 11400000, guid: 3dcd4f1302bd6ce479824c918fda479f, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 4b91d04527aa29147a446ab817c927d4, type: 2}
+      sceneName: Nokhodfarangi
+      audio: {fileID: 8300000, guid: c246bd4978c57674e88b73a1c55ab8f9, type: 3}
+    - skelData: {fileID: 11400000, guid: 21e2e8b29e4d0e44a8d0e480b3b46194, type: 2}
+      skelMaterial: {fileID: 2100000, guid: cddce361f5fc42243bc5e6a26f65bda1, type: 2}
+      sceneName: Piaz
+      audio: {fileID: 8300000, guid: 3f79d628caf73304e82212aa7d767d49, type: 3}
+    - skelData: {fileID: 11400000, guid: 5bb7b0529d220f14aaa796610f3e4470, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 42fd095266437834fb68e5ada06faa2e, type: 2}
+      sceneName: Shalgham
+      audio: {fileID: 8300000, guid: 8d89ee5bcbfe7f44d8935dc94872854c, type: 3}
+    - skelData: {fileID: 11400000, guid: c2a7569c711b6de4dbdb83cdc73960ab, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 38ec7cdd4cd6f194d9bfa35c83971bd2, type: 2}
+      sceneName: Sibzamini
+      audio: {fileID: 8300000, guid: e95c2b16e7297d745995727f489768f0, type: 3}
+    - skelData: {fileID: 11400000, guid: adeb0cfed311dcc41ad518f4926055ac, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 5145f99b9a4762a42ac93cfc46319d94, type: 2}
+      sceneName: Sir
+      audio: {fileID: 8300000, guid: dbe91b932f1b9704ab4cad8545910ad1, type: 3}
+    - skelData: {fileID: 11400000, guid: 82a80d0a5ad936144a486c6f7b6f3046, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 923d3773e16f2534193bfa6076eb295a, type: 2}
+      sceneName: Zorat
+      audio: {fileID: 8300000, guid: b7f46e58143594143a102157bb0daa76, type: 3}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b8525747b3dacf5498af0ec7f8cb2e3f
+timeCreated: 1505219118
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: W_yekan Bold
+  fontNames:
+  - W_yekan Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

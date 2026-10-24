@@ -1,0 +1,27 @@
+
+Untitled-1.png
+size: 520,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+اسکاج
+  rotate: true
+  xy: 372, 23
+  size: 233, 146
+  orig: 233, 146
+  offset: 0, 0
+  index: -1
+اسکاج copy
+  rotate: true
+  xy: 2, 2
+  size: 254, 166
+  orig: 254, 166
+  offset: 0, 0
+  index: -1
+حباب copy 3
+  rotate: false
+  xy: 170, 56
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

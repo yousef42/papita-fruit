@@ -1,0 +1,48 @@
+
+Untitled-1.png
+size: 145,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 82, 35
+  size: 167, 56
+  orig: 167, 56
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 78, 17
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 140, 54
+  orig: 140, 54
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 58, 16
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 82, 204
+  size: 159, 61
+  orig: 159, 61
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 144
+  size: 78, 219
+  orig: 78, 219
+  offset: 0, 0
+  index: -1

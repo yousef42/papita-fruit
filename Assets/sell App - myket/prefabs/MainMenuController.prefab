@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1855823398623698532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1855823398623698586}
+  - component: {fileID: 1855823398623698533}
+  - component: {fileID: 1855823398623698587}
+  m_Layer: 0
+  m_Name: MainMenuController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1855823398623698586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855823398623698532}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.982221, y: -11.69823, z: 470.15732}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1855823398623698533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855823398623698532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d255338f83e58a44b9f33d1260be3893, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  levelsLock:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  storsBtn:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  myTextBox: {fileID: 0}
+  price1: {fileID: 0}
+  price2: {fileID: 0}
+  phoneNum: {fileID: 0}
+  UID: {fileID: 0}
+  UserAnswer: {fileID: 0}
+  kodtakhfif: {fileID: 0}
+  Lockbox: {fileID: 0}
+  LockboxWhatsapp: {fileID: 0}
+  eventName:
+  - instal_papita_btn
+  - instal_papitaABC_btn
+  - instal_papita123_btn
+  - instal_papitaAnimal_btn
+  - instal_papitaFruit_btn
+  - instal_papitaShape_btn
+  - instal_papitaColor_btn
+  - instal_papitaSentence_btn
+  - instal_papitawriting_btn
+  - instal_papitaPersian_btn
+  - instal_papitaPersian123_btn
+  - instal_papitaArabic_btn
+  eventGameBtn:
+  - domestic_animals
+  - sea_animals
+  - insects
+  - reptiles
+  - birds
+  - mamals
+  - wild_animals
+  alphabet:
+  - a
+  - s
+  - d
+  - f
+  - g
+  - h
+  - j
+  - k
+  - l
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - y
+  - u
+  uitext:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  main: {fileID: 0}
+--- !u!114 &1855823398623698587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855823398623698532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0359b8e2a96d5a43af34d81e933c46f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  application_id: 1
+  inappSection: 0
+  nextbtn: {fileID: 0}
+  nextbtn2: {fileID: 0}
+  closeBtn: {fileID: 0}
+  justthisAfterBuy: {fileID: 0}
+  term:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  mylinkGoogle:
+  - https://play.google.com/store/apps/details?id=me.papitakids.android
+  - https://play.google.com/store/apps/details?id=me.AmoLaki.android
+  - https://play.google.com/store/apps/details?id=me.AmoLakiNumm.android
+  - https://play.google.com/store/apps/details?id=me.papitaanimals.android
+  - https://play.google.com/store/apps/details?id=me.papitafruits.android
+  - https://play.google.com/store/apps/details?id=me.papitashapes.android
+  - https://play.google.com/store/apps/details?id=me.papitacolor.android
+  - https://play.google.com/store/apps/details?id=me.papitasentence.android
+  - https://play.google.com/store/apps/details?id=me.PapitaWriting.Android
+  - https://play.google.com/store/apps/details?id=me.shantia.android
+  - https://play.google.com/store/apps/details?id=me.AmoLakiIslandNum.android
+  - https://play.google.com/store/apps/details?id=me.papitaarabic.android
+  myLinkBazar:
+  - https://cafebazaar.ir/app/me.papitakids.android
+  - https://cafebazaar.ir/app/me.AmoLaki.android
+  - https://cafebazaar.ir/app/me.AmoLakiNumm.android
+  - https://cafebazaar.ir/app/me.papitaanimals.android
+  - https://cafebazaar.ir/app/me.papitafruits.android
+  - https://cafebazaar.ir/app/me.papitashapes.android
+  - https://cafebazaar.ir/app/me.papitacolor.android
+  - https://cafebazaar.ir/app/me.papitasentence.android
+  - https://cafebazaar.ir/app/me.PapitaWriting.Android
+  - https://cafebazaar.ir/app/me.shantia.android
+  - https://cafebazaar.ir/app/me.AmoLakiIslandNum.android
+  - https://cafebazaar.ir/app/me.papitaarabic.android
+  MylinkMyket:
+  - https://myket.ir/app/me.papitakids.android
+  - https://myket.ir/app/me.AmoLaki.android
+  - https://myket.ir/app/me.AmoLakiNumm.android
+  - https://myket.ir/app/me.papitaanimals.android
+  - https://myket.ir/app/me.papitafruits.android
+  - https://myket.ir/app/me.papitashapes.android
+  - https://myket.ir/app/me.papitacolor.android
+  - https://myket.ir/app/me.papitasentence.android
+  - https://myket.ir/app/me.PapitaWriting.Android
+  - https://myket.ir/app/me.shantia.android
+  - https://myket.ir/app/me.Papihttps://myket.ir/app/me.AmoLakiIslandNum.android
+  - https://myket.ir/app/me.papitaarabic.android
+  mypackagename:
+  - me.papitakids.android
+  - me.AmoLaki.android
+  - me.AmoLakiNumm.android
+  - me.papitaanimals.android
+  - me.papitafruits.android
+  - me.papitashapes.android
+  - me.papitacolor.android
+  - me.papitasentence.android
+  - me.PapitaWriting.Android
+  - me.shantia.android
+  - me.AmoLakiIslandNum.android
+  - me.papitaarabic.android
+  appsimage:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  apps:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  terms:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  buyBtns: []
+  appsName:
+  - papita
+  - papitaAbc
+  - papita123
+  - papitanaimal
+  - papitafruit
+  - papitashape
+  - papitacolor
+  - ppaitasentence
+  - papitawriting
+  - papitapersian
+  - papitaper123
+  - ppaitaarabic
+  manager: {fileID: 0}
+  kpi: {fileID: 0}
+  keyboard: {fileID: 0}
+  mySliding: 6

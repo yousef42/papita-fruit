@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/sell App - myket/slider.unity
+    guid: 7cee210b4b142d444a41b170fcd700dc
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e1db65a8ea04e494bbe45072d126c9ae
+  - enabled: 1
+    path: Assets/Scenes/TutScene.unity
+    guid: 7f4440d753f21c04284a3e6904eca33a
+  - enabled: 1
+    path: Assets/Scenes/fruits/Ananas.unity
+    guid: 83063bc9e2cfdd541be2ad2e9c8bcd89
+  - enabled: 1
+    path: Assets/Scenes/fruits/Anar.unity
+    guid: 5863a850cbf6f0e40abc7d0d06b6a901
+  - enabled: 1
+    path: Assets/Scenes/fruits/Angoor.unity
+    guid: e78283a998200e54cac78bdc2b79d513
+  - enabled: 1
+    path: Assets/Scenes/fruits/Blueberry.unity
+    guid: 8e8c2f36cf4edd049b6ef756d8b3f1ba
+  - enabled: 1
+    path: Assets/Scenes/fruits/Gilas.unity
+    guid: 5de83582004e8d34da9d72d90c8d66ac
+  - enabled: 1
+    path: Assets/Scenes/fruits/Golabi.unity
+    guid: 8814fe762ed2fad4597a1efdda7cd04d
+  - enabled: 1
+    path: Assets/leader board/leader board.unity
+    guid: 8aa50ae3436e79e4591cd0f124d117e1
+  - enabled: 1
+    path: Assets/Scenes/fruits/Holoo.unity
+    guid: 086a71ec7b9009747ac5d597b04232c7
+  - enabled: 1
+    path: Assets/Scenes/fruits/Kiwi.unity
+    guid: 00e110409aade414295312305f330daa
+  - enabled: 1
+    path: Assets/Scenes/fruits/Limoo.unity
+    guid: c354f01e121928b4bb8438c1f7dc9e8a
+  - enabled: 1
+    path: Assets/Scenes/fruits/Moz.unity
+    guid: a76c0f57cfc3d454bb5638e92858383d
+  - enabled: 1
+    path: Assets/Scenes/fruits/Narengi.unity
+    guid: 4d6cd5357c3edb64993f0379ae91c4be
+  - enabled: 1
+    path: Assets/Scenes/fruits/Nargil.unity
+    guid: a0e347fd0d05f6542920d4ba7f96a62a
+  - enabled: 1
+    path: Assets/Scenes/fruits/Porteghal.unity
+    guid: ef8fdc5abe758474fbeef3324908f4e8
+  - enabled: 1
+    path: Assets/Scenes/fruits/Sib.unity
+    guid: 3052b78373e1e5d4dbb71e113611cc2e
+  - enabled: 1
+    path: Assets/Scenes/fruits/Talebi.unity
+    guid: 6a3e44aad6cf68d4c951bb40f0e8a51e
+  - enabled: 1
+    path: Assets/Scenes/fruits/Tameshk.unity
+    guid: bcca943c96223c541a95150d0cce9c71
+  - enabled: 1
+    path: Assets/Scenes/fruits/Tootfarangi.unity
+    guid: 9f60bb83a1df5d5469b2d5ec321a158c
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Bademjan.unity
+    guid: 03ddbc15c16aaa045823f0627bc33e15
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Brookli.unity
+    guid: 0efbf2d906a1e2e4a863ab442ebbc468
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Felfeldolme.unity
+    guid: 0088a9fcb506a144ab25b5768a1edfc3
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Felfelghermez.unity
+    guid: e99575ee937b9ec4fa2af60780e44691
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Gharch.unity
+    guid: f046685a021424b498390430d3f93bc3
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Goje.unity
+    guid: d47806dfdb75010468a21d6d1efccf49
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Havij.unity
+    guid: 380f15e32c35995458449beab8420316
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Kadoo.unity
+    guid: 275778c58b861704cb4d60bf0c3aa399
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Kadootanbal.unity
+    guid: aa22360607f2c9946b6cc10b9742acdb
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Kahoo.unity
+    guid: 045bc4f675abb1f4286cdd53fb7afafe
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Kalampich.unity
+    guid: 124f2407c961af549a200859115e5c90
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Karafs.unity
+    guid: e7f00343861d67e4991e4a4ec789cc7c
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Khiar.unity
+    guid: 159e221c3866dcc4a9233964b9655f83
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Loobiasabz.unity
+    guid: 5e7dd580e4dfe2741acd65f4a973d5e6
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Nokhodfarangi.unity
+    guid: 29427736bebcd024e9c2fdce93e0db49
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Piaz.unity
+    guid: 74229c9e07fb36b4aa80e3789203e845
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Shalgham.unity
+    guid: 583f49b65a9179a4494c0e32a3c77bb5
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Sibzamini.unity
+    guid: ff37c9500aca9cd4eba0785b05873e7d
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Sir.unity
+    guid: fa3ba3a17b228ea4f9e11fdb13463b9b
+  - enabled: 1
+    path: Assets/Scenes/vegetables/Zorat.unity
+    guid: ab73a158233b54a48bd029b126eb09f9
+  - enabled: 1
+    path: Assets/Scenes/fruits/Watermelon.unity
+    guid: 0f80dcac5b01c474283ca9133424b938
+  - enabled: 1
+    path: Assets/Scenes/fruits/Zardaloo.unity
+    guid: 558acb5d8a920ab45922406b8d3d82c2
+  m_configObjects: {}

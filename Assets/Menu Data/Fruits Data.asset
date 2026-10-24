@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b7e1eef2a374f8479da87ca8345df4f, type: 3}
+  m_Name: Fruits Data
+  m_EditorClassIdentifier: 
+  cellDataList:
+    array:
+    - skelData: {fileID: 11400000, guid: bf7a1874dc543874783e88e7d2d40f2d, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 6679e06bf07f28144a486352b7946bb8, type: 2}
+      sceneName: Ananas
+      audio: {fileID: 8300000, guid: b7f46e58143594143a102157bb0daa76, type: 3}
+    - skelData: {fileID: 11400000, guid: 37a4267c55ffe9d49b0bf0290baf2043, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 2b1de73a1482809409d674fc5c21c14d, type: 2}
+      sceneName: Anar
+      audio: {fileID: 8300000, guid: beaabcff3fd84574ea022b117bd7e34d, type: 3}
+    - skelData: {fileID: 11400000, guid: 9ce0f7efe9d0deb488565da00912a320, type: 2}
+      skelMaterial: {fileID: 2100000, guid: ece0d88c6a9d1d641bd57c30f8187d5b, type: 2}
+      sceneName: Angoor
+      audio: {fileID: 8300000, guid: da6488f3b1c80e74cbe346bb2b752f03, type: 3}
+    - skelData: {fileID: 11400000, guid: 7411a23f0acb522499a05f083feb581f, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 29ded384363caaa44a066a3400fabda3, type: 2}
+      sceneName: Blueberry
+      audio: {fileID: 8300000, guid: 3b9203e4b77da154295890eb3102d995, type: 3}
+    - skelData: {fileID: 11400000, guid: 1ca5d6af83de1934aaff2122d3b3a092, type: 2}
+      skelMaterial: {fileID: 2100000, guid: f34d1d49993119944b9ee50a50da1f53, type: 2}
+      sceneName: Gilas
+      audio: {fileID: 8300000, guid: a04dd42ba86b89047850b6c68814cbc1, type: 3}
+    - skelData: {fileID: 11400000, guid: 136d9a7dc5e63994f84201dc2d1758ba, type: 2}
+      skelMaterial: {fileID: 2100000, guid: d0b0305af1cdcbc408d6ebfd352a354d, type: 2}
+      sceneName: Golabi
+      audio: {fileID: 8300000, guid: c246bd4978c57674e88b73a1c55ab8f9, type: 3}
+    - skelData: {fileID: 11400000, guid: 42442f36623b51649bc7b0ecde0c11ea, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 36f6f441c8bf203449c9a21c06665921, type: 2}
+      sceneName: Watermelon
+      audio: {fileID: 8300000, guid: 8985f94676a52c24a9ab7ea9c1303a1b, type: 3}
+    - skelData: {fileID: 11400000, guid: 7cc0804728e2bf143b2327aee16adcab, type: 2}
+      skelMaterial: {fileID: 2100000, guid: d8efafb6cc4588b439022747e44cba4f, type: 2}
+      sceneName: Holoo
+      audio: {fileID: 8300000, guid: 9b79b13a30aeebb4fbbf393b5de83d8d, type: 3}
+    - skelData: {fileID: 11400000, guid: 09dd941a6c0a5594298599bee3520a5f, type: 2}
+      skelMaterial: {fileID: 2100000, guid: ccb30f2e4095e274db37b1164044e632, type: 2}
+      sceneName: Kiwi
+      audio: {fileID: 8300000, guid: 6737e27eb4607214aaa719be486c0924, type: 3}
+    - skelData: {fileID: 11400000, guid: 7ca85d617d2c2434d983c6b496b69cf9, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 7b941fb669c29bf418f184fc9d42128b, type: 2}
+      sceneName: Limoo
+      audio: {fileID: 8300000, guid: beaabcff3fd84574ea022b117bd7e34d, type: 3}
+    - skelData: {fileID: 11400000, guid: a1b17a94e916bfe438f0c454c687a199, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 4258283893e0d4f42a3d49b978d95bd2, type: 2}
+      sceneName: Moz
+      audio: {fileID: 8300000, guid: b7f46e58143594143a102157bb0daa76, type: 3}
+    - skelData: {fileID: 11400000, guid: 8fd690b4947e5f24bba191aa9a4bc9d8, type: 2}
+      skelMaterial: {fileID: 2100000, guid: afe620bd3721c034ea5dd391151d41c0, type: 2}
+      sceneName: Narengi
+      audio: {fileID: 8300000, guid: 149896e234b69aa4ba8ebe4f01a493db, type: 3}
+    - skelData: {fileID: 11400000, guid: 5a19d836566d86845b25819f80a36c49, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 57931514ceca4334bb17cae5c049ad47, type: 2}
+      sceneName: Nargil
+      audio: {fileID: 8300000, guid: 8d89ee5bcbfe7f44d8935dc94872854c, type: 3}
+    - skelData: {fileID: 11400000, guid: 7ed2be20e2926fd45938f2dfd75bab52, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 81b64861ed65dbb4a988ae7c46847f02, type: 2}
+      sceneName: Porteghal
+      audio: {fileID: 8300000, guid: c246bd4978c57674e88b73a1c55ab8f9, type: 3}
+    - skelData: {fileID: 11400000, guid: 83f09c497b4c9b44488c56a9c6b19bd8, type: 2}
+      skelMaterial: {fileID: 2100000, guid: b55eb294ca784604db8024c3f005be5e, type: 2}
+      sceneName: Sib
+      audio: {fileID: 8300000, guid: 9b79b13a30aeebb4fbbf393b5de83d8d, type: 3}
+    - skelData: {fileID: 11400000, guid: 152c95dfce2f00d4dab340e1eed051d2, type: 2}
+      skelMaterial: {fileID: 2100000, guid: f2f4515ac57e0234e910fc3f43902217, type: 2}
+      sceneName: Talebi
+      audio: {fileID: 8300000, guid: f2dc18e7022bb74478d91cae6c1113e6, type: 3}
+    - skelData: {fileID: 11400000, guid: b97509694f6b43d4a9085bbca1a71833, type: 2}
+      skelMaterial: {fileID: 2100000, guid: e337383995a48064e8f6fc7ce70e1351, type: 2}
+      sceneName: Tameshk
+      audio: {fileID: 8300000, guid: 6737e27eb4607214aaa719be486c0924, type: 3}
+    - skelData: {fileID: 11400000, guid: 220db90ff2f2fb942947a4c05a52eb4d, type: 2}
+      skelMaterial: {fileID: 2100000, guid: b056e8bea198b354e9fbc18c6dabf569, type: 2}
+      sceneName: Tootfarangi
+      audio: {fileID: 8300000, guid: 3b9203e4b77da154295890eb3102d995, type: 3}
+    - skelData: {fileID: 11400000, guid: 332c2496ccb875443996108039447abe, type: 2}
+      skelMaterial: {fileID: 2100000, guid: 8126adb212f26e440b49ae35159a1016, type: 2}
+      sceneName: Zardaloo
+      audio: {fileID: 8300000, guid: f2dc18e7022bb74478d91cae6c1113e6, type: 3}

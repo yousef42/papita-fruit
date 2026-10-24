@@ -1,0 +1,41 @@
+
+Untitled-1.png
+size: 1394,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 1
+  rotate: true
+  xy: 2, 2
+  size: 282, 348
+  orig: 282, 348
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy 4
+  rotate: true
+  xy: 352, 2
+  size: 282, 346
+  orig: 282, 346
+  offset: 0, 0
+  index: -1
+Ellipse 1 copy 5
+  rotate: true
+  xy: 700, 2
+  size: 282, 346
+  orig: 282, 346
+  offset: 0, 0
+  index: -1
+دوش
+  rotate: true
+  xy: 1231, 26
+  size: 258, 161
+  orig: 258, 161
+  offset: 0, 0
+  index: -1
+دوش copy
+  rotate: true
+  xy: 1048, 6
+  size: 278, 181
+  orig: 278, 181
+  offset: 0, 0
+  index: -1

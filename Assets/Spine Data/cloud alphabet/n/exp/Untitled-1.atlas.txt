@@ -1,0 +1,27 @@
+
+Untitled-1.png
+size: 265,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 63, 5
+  size: 143, 189
+  orig: 143, 189
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 63, 150
+  size: 57, 200
+  orig: 57, 200
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 59, 205
+  orig: 59, 205
+  offset: 0, 0
+  index: -1

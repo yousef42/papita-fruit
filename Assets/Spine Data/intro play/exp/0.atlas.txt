@@ -1,0 +1,20 @@
+
+0.png
+size: 416,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dokme
+  rotate: true
+  xy: 2, 2
+  size: 270, 274
+  orig: 270, 274
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 278, 111
+  size: 136, 161
+  orig: 136, 161
+  offset: 0, 0
+  index: -1
